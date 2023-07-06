@@ -17,3 +17,25 @@ Appuyez sur une touche pour quitter le programme.
 ## Remarques
 Les caractères en minuscule sont inclus par défaut dans tous les mots de passe générés.\
 Les caractères en majuscule, les chiffres et les caractères spéciaux sont facultatifs et peuvent être ajoutés en fonction de vos préférences.
+
+
+## Password Generator
+This program generates a random password based on the criteria specified by the user.
+
+## How to use the password generator
+The program will ask you several questions to customize your password. You need to provide the following information:
+
+Password length: Enter an integer to specify the desired number of characters.\
+Uppercase characters: Answer 'y' (yes) or 'n' (no) to indicate whether you want to include uppercase letters.\
+Numbers: Answer 'y' (yes) or 'n' (no) to indicate whether you want to include numbers.\
+Special characters: Answer 'y' (yes) or 'n' (no) to indicate whether you want to include special characters.\
+
+After providing all the information, the program will generate a random password based on your preferences.
+
+The generated password will be displayed on the screen.
+
+Press any key to exit the program.
+
+## Notes
+Lowercase characters are included by default in all generated passwords.\
+Uppercase characters, numbers, and special characters are optional and can be added based on your preferences.\
